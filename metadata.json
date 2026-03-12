@@ -1,0 +1,5 @@
+{
+  "name": "抽選アプリ",
+  "description": "テキストからランダムに当選者を選ぶアプリ",
+  "requestFramePermissions": []
+}
